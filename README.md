@@ -1,0 +1,2 @@
+# git_javascript_learning_playwright_07_2025_evening
+Example repository for github purposes
