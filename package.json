@@ -1,0 +1,13 @@
+{
+  "name": "git_javascript_learning_playwright_07_2025_evening",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Example repository for github purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
